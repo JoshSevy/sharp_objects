@@ -1,0 +1,15 @@
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/bin/Debug/net5.0/sharp_objects.deps.json
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/bin/Debug/net5.0/sharp_objects.runtimeconfig.json
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/bin/Debug/net5.0/sharp_objects.runtimeconfig.dev.json
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/bin/Debug/net5.0/sharp_objects.dll
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/bin/Debug/net5.0/ref/sharp_objects.dll
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/bin/Debug/net5.0/sharp_objects.pdb
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.csproj.AssemblyReference.cache
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.AssemblyInfoInputs.cache
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.AssemblyInfo.cs
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.csproj.CoreCompileInputs.cache
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.dll
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/ref/sharp_objects.dll
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.pdb
+/Users/joshuasevy/code/udemy/c#/sharp_objects/sharp_objects/obj/Debug/net5.0/sharp_objects.genruntimeconfig.cache
