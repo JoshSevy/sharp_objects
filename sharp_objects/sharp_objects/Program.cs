@@ -6,6 +6,9 @@ namespace sharp_objects
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.BackgroundColor = ConsoleColor.DarkYellow;
+            Console.Clear();
             // declaring a variable
             int num1;
 
@@ -38,6 +41,7 @@ namespace sharp_objects
             float fDiv = f1 / f2;
 
             Console.WriteLine("f1 / f2 is " + fDiv);
+            
 
 
 
